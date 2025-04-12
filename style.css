@@ -62,6 +62,7 @@ body.dark{
     width: 280px;
     background: var(--sidebar-color);
     padding: 10px 14px;
+    z-index: 999999;
 }
 .sidebar.close{
     width: 88px;
